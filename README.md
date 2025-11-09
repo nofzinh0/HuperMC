@@ -1,1 +1,1 @@
-# HuperMC
+# HyperMC
